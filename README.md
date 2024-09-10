@@ -8,7 +8,7 @@ AdrenalineFX ADX (Anti Data Exfiltration)
 - 🛠️ **Protocol Dissection**<br>
 - 🖥️ **IP to ASN converter** <br>
 - 📝 **IP to Country converter**<br>
-- 🔄 **Autogenerazione Shadow Model**<br>
+- 🔄 **Autogenerate Shadow Model**<br>
 - 🧾 **Whitelist ASN**<br>
 - 🧾 **Whitelist String Based**<br>
 - 🐤 **UserMode/ AdminMode**<br>

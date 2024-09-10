@@ -20,10 +20,11 @@ AdrenalineFX_Installer.zip
 - 🚀 **Firewall Support**<br>
 
 
-## Version
-
- 0.0.0.1  Alpha - Trial<br>
- 
+## Requirements
+MS Windows 10/11 x64<br>
+Pcap Driver ([Download NPCAP](https://npcap.com/#download) or [Download WIN10PCAP](https://www.win10pcap.org/)<br>
+Sysmon64 [Download](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon).<br>
+    
 
 ## Adrenaline FX
 

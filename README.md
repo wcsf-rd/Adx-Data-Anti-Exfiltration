@@ -22,7 +22,7 @@ AdrenalineFX_Installer.zip
 
 ## Requirements
 MS Windows 10/11 x64<br>
-Pcap Driver ([Download NPCAP](https://npcap.com/#download) or [Download WIN10PCAP](https://www.win10pcap.org/)<br>
+Pcap Driver ([Download NPCAP](https://npcap.com/#download) or [Download WIN10PCAP](https://www.win10pcap.org/))<br>
 Sysmon64 [Download](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon).<br>
     
 

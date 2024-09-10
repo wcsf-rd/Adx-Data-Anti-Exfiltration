@@ -32,8 +32,8 @@ AdrenalineFX_Installer.zip
 
 
 ## To-Do List
-:penguin: **ipV6 Support** :penguin:
-:penguin: **Firewall Rules Timeout** :penguin:
+:penguin: **ipV6 Support** :penguin:<br>
+:penguin: **Firewall Rules Timeout** :penguin:<br>
 
 
 ## Contact

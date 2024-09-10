@@ -14,7 +14,7 @@ AdrenalineFX_Installer.zip
 - 🔄 **Autogenerazione Shadow Model**<br>
 - 🧾 **Whitelist ASN**<br>
 - 🧾 **Whitelist String Based**<br>
-- 🐤 **UserMode/ AdminMode **<br>
+- 🐤 **UserMode/ AdminMode**<br>
 - 🛑 **Anti-Smuggling**<br>
 - 🔊 **Log**<br>
 - 🚀 **Firewall Support**<br>

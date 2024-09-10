@@ -22,8 +22,9 @@ MS Windows 10/11 x64<br>
 Pcap Driver ([Download NPCAP](https://npcap.com/#download) or [Download WIN10PCAP](https://www.win10pcap.org/))<br>
 Sysmon64 [Download](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon).<br>
 
-.Net Framework 4.8.1 Runtime [Download]([https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-web-installer))
-.Net 8 Desktop Runtime [Download](https://download.visualstudio.microsoft.com/download/pr/907765b0-2bf8-494e-93aa-5ef9553c5d68/a9308dc010617e6716c0e6abd53b05ce/windowsdesktop-runtime-8.0.8-win-x64.exe)
+.Net Framework 4.8.1 Runtime [Download](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-web-installer)<br>
+
+.Net 8 Desktop Runtime [Download](https://download.visualstudio.microsoft.com/download/pr/907765b0-2bf8-494e-93aa-5ef9553c5d68/a9308dc010617e6716c0e6abd53b05ce/windowsdesktop-runtime-8.0.8-win-x64.exe)<br>
     
 
 ## Adrenaline FX

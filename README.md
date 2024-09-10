@@ -15,6 +15,7 @@ AdrenalineFX ADX (Anti Data Exfiltration)
 - 🛑 **Anti-Smuggling**<br>
 - 🔊 **Log**<br>
 - 🚀 **Firewall Support**<br>
+- 🛡️ **Zero Trust**
 
 
 ## Requirements

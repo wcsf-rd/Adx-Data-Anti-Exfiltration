@@ -26,7 +26,6 @@ AdrenalineFX_Installer.zip
  
 
 ## Adrenaline FX
-![image](https://github.com/wcsf-rd/anti-ransomware/assets/170107204/a755921b-1c3e-4c96-a299-9056c6b42b66)
 
 
 

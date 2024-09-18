@@ -1,7 +1,7 @@
 
 AdrenalineFX ADX (Anti Data Exfiltration)
 
-💾Download the Alpha Version💾
+💾Download the Alpha Version 0.0.0.2💾
 
 ## Features
 - 💡 **MultiScore Machine Learning**<br>

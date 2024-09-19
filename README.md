@@ -3,7 +3,7 @@ AdrenalineFX ADX (Anti Data Exfiltration)
 
 AdrenalineFX ADX is an advanced cybersecurity solution designed to prevent the exfiltration of sensitive data from corporate networks and devices. The system monitors and analyzes outgoing network traffic in real time, identifying suspicious or unauthorized activities that may indicate attempts of information theft or data exfiltration.
 
-💾Download the Alpha Version 0.0.0.2💾
+💾Download the Alpha Version 0.2💾
 
 ## Features
 - 💡 **MultiScore Machine Learning**<br>
@@ -18,6 +18,7 @@ AdrenalineFX ADX is an advanced cybersecurity solution designed to prevent the e
 - 🔊 **Log**<br>
 - 🚀 **Firewall Support**<br>
 - 🛡️ **Zero Trust**
+
 
 
 ## Requirements
